@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "standalone",
+  // Bu yerda "output: standalone" YO'Q bo'lishi kerak
   eslint: {
     ignoreDuringBuilds: true,
   },
